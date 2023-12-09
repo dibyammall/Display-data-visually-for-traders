@@ -1,9 +1,4 @@
-From a76a90da8c00a4fb52014d0434ab9204faba6255 Mon Sep 17 00:00:00 2001
-From: Siddhardha <siddhu1999v@gmail.com>
-Date: Thu, 13 Oct 2022 16:03:31 +0530
-Subject: [PATCH] Creat Patch File
 
----
  src/DataManipulator.ts | 41 +++++++++++++++++++++++++++--------------
  src/Graph.tsx          | 26 +++++++++++++++-----------
  2 files changed, 42 insertions(+), 25 deletions(-)
